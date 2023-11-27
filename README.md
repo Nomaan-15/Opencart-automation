@@ -1,5 +1,4 @@
 # Opencart-automation
-# OpenCart Automation
 
 This repository contains automation scripts and tests for OpenCart, an open-source online shopping cart system. The automation is implemented using [Cypress](https://www.cypress.io/), a modern JavaScript end-to-end testing framework.
 
